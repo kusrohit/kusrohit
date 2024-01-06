@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hi there👋 I'm Rohit Kushwaha🙏
+# Hi there👋 I'm Rohit🙏
 
 <!-- Introduction -->
 I'm a Developer & Open Source Contributor.
@@ -42,6 +42,6 @@ I'm a Developer & Open Source Contributor.
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20By-Rohit%20Kushwaha-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Built%20By-Rohit-blue?style=for-the-badge">
 </p>
 
