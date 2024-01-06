@@ -22,7 +22,7 @@ I'm a Developer & Open Source Contributor.
 
 <!-- Connect with me -->
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kusrohit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://https://linkedin.com/in/kusrohit)
 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/kushtwts)
 
