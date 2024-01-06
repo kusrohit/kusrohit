@@ -1,9 +1,3 @@
-<!-- Wallpaper -->
-<div style="background-image: >
-  <h2>Welcome to My GitHub Profile</h2>
-  <p>Feel free to explore my projects and contributions!</p>
-</div>
-
 <!-- Your Name -->
 # Hi there👋 I'm Rohit Kushwaha🙏
 
@@ -28,17 +22,17 @@ I'm a Developer & Open Source Contributor.
 
 <!-- Connect with me -->
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kusrohit/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ikusrohit/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/kushtwts)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://kushrohit.showwcase.com)
 
 <!-- Visitors Counter (excluding yourself) -->
 ![GitHub Views](https://komarev.com/ghpvc/?username=kusrohit)
 
-![Visitor Count](https://profile-counter.glitch.me/kusrohit&/count.svg)
-
 <!-- GitHub Activity Graph -->
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kusrohit&bg_color=13715f&color=000405&line=0010f0&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kusrohit&bg_color=13715f&color=000405&line=0010f0&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- GitHub Trophies -->
 <!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=kusrohit&theme=nord) -->
