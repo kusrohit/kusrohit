@@ -1,3 +1,9 @@
+<!-- Wallpaper -->
+<div style="background-image: >
+  <h2>Welcome to My GitHub Profile</h2>
+  <p>Feel free to explore my projects and contributions!</p>
+</div>
+
 <!-- Your Name -->
 # Hi there👋 I'm Rohit Kushwaha🙏
 
@@ -28,6 +34,8 @@ I'm a Developer & Open Source Contributor.
 
 <!-- Visitors Counter (excluding yourself) -->
 ![GitHub Views](https://komarev.com/ghpvc/?username=kusrohit)
+
+![Visitor Count](https://profile-counter.glitch.me/kusrohit&/count.svg)
 
 <!-- GitHub Activity Graph -->
 [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kusrohit&bg_color=13715f&color=000405&line=0010f0&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
