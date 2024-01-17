@@ -14,6 +14,8 @@ I'm a Developer & Open Source Contributor.
 - **Databases:** MySQL
 - **Tools:** Git, VSCode
 
+## **Learning Rust...**
+
 <!-- Featured Projects -->
 <!-- ### 🔭 Featured Projects -->
 <!-- - [Project 1](https://github.com/kusrohit/project1): Brief description of the project. -->
