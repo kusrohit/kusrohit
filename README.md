@@ -29,7 +29,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
 ### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</br>
+Refresh Page for New Meme
 </br>
 </br>
 <!-- Footer -->
