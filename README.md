@@ -3,11 +3,10 @@
 <!-- Introduction -->
 <h3 align="center">I'm a Developer from Bharat 🇮🇳</h3>
 <!-- gif -->
-<img align="right" alt="Coding" width="300" src="./tenor.gif">
+<img align="right" alt="Coding" width="400" src="./tenor.gif">
 
 <!-- Visitor count -->
-👁️ 
-![GitHub Views](https://komarev.com/ghpvc/?username=kusrohit)</br>
+![Profile Views](https://komarev.com/ghpvc/?username=kusrohit&style=for-the-badge&color=3670A0)</br>
 <!-- Skills -->
 ### 🖥️ What I Know
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -20,13 +19,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/kushrohit) 
 [![x](https://img.shields.io/badge/X-black.svg?logo=twitter&logoColor=white)](https://x.com/kushtwts)</br>
 <!-- Top Skill -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kusrohit&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kusrohit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=kusrohit&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kusrohit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=radical&hide_border=false)<br/>
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
 
 ### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
@@ -35,6 +34,6 @@
 </br>
 <!-- Footer -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20By-Rohit-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20by-Rohit-blue?style=for-the-badge">
 </p>
 
