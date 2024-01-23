@@ -20,10 +20,10 @@
 [![x](https://img.shields.io/badge/X-black.svg?logo=twitter&logoColor=white)](https://x.com/kushtwts)
 <!-- Top Skill -->
 ### 💫 Skills
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kusrohit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kusrohit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <!-- GitHub Stats -->
 ### 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=kusrohit&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=kusrohit&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=radical&hide_border=false) -->
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
