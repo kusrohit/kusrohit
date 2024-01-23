@@ -3,7 +3,7 @@
 <!-- Introduction -->
 <h3 align="center">I'm a Developer from Bharat 🇮🇳</h3>
 <!-- gif -->
-<img align="right" alt="Coding" width="300" src="./tenor.gif">
+<!-- <img align="right" alt="Coding" width="300" src="./tenor.gif"> -->
 
 <!-- Visitor count -->
 ![Profile Views](https://komarev.com/ghpvc/?username=kusrohit&style=for-the-badge&color=3670A0)</br>
@@ -19,10 +19,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/kushrohit) 
 [![x](https://img.shields.io/badge/X-black.svg?logo=twitter&logoColor=white)](https://x.com/kushtwts)</br>
 <!-- Top Skill -->
+### 💫 Skills
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kusrohit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- GitHub Stats -->
+### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=kusrohit&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=radical&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=radical&hide_border=false) -->
+<br/>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
