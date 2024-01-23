@@ -1,47 +1,38 @@
 <!-- Your Name -->
-# Hi there👋 I'm Rohit🙏
-
+<h1 align="center">Namaste🙏, I'm Rohit👋</h1>
 <!-- Introduction -->
-I'm a Developer & Open Source Contributor.
+<h3 align="center">I'm a Developer from Bharat 🇮🇳</h3>
+<!-- gif -->
+<img align="right" alt="Coding" width="300" src="./tenor.gif">
 
-<!-- GitHub Stats -->
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kusrohit&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)
-
+<!-- Visitor count -->
+👁️ 
+![GitHub Views](https://komarev.com/ghpvc/?username=kusrohit)</br>
 <!-- Skills -->
-### 🚀 Skills
-- **Languages:** Python
-- **Library & Frameworks:** Numpy, Pandas, Matplotlib, Flask
-- **Databases:** MySQL
-- **Tools:** Git, VSCode
+### 🖥️ What I Know
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)</br>
+<!-- Socials -->
+### 🌐 Connect Here
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/kushrohit) 
+[![x](https://img.shields.io/badge/X-black.svg?logo=twitter&logoColor=white)](https://x.com/kushtwts)</br>
+<!-- Top Skill -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kusrohit&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- GitHub Stats -->
+![](https://github-readme-stats.vercel.app/api?username=kusrohit&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=blue-green&hide_border=false)<br/>
 
-## **Learning Rust...**
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Featured Projects -->
-<!-- ### 🔭 Featured Projects -->
-<!-- - [Project 1](https://github.com/kusrohit/project1): Brief description of the project. -->
-<!-- - [Project 2](https://github.com/kusrohit/project2): Brief description of the project. -->
-<!-- - [Project 3](https://github.com/kusrohit/project3): Brief description of the project. -->
-
-<!-- Connect with me -->
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ikushrohit/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/kushtwts)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://peerlist.io/kushrohit)
-
-<!-- Visitors Counter (excluding yourself) -->
-![GitHub Views](https://komarev.com/ghpvc/?username=kusrohit)
-
-<!-- GitHub Activity Graph -->
-<!-- [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kusrohit&bg_color=13715f&color=000405&line=0010f0&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<!-- GitHub Trophies -->
-<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=kusrohit&theme=nord) -->
-
-<!-- GitHub Streak -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=dark)  -->
-
+### 😂 Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</br>
+</br>
+</br>
 <!-- Footer -->
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20By-Rohit-blue?style=for-the-badge">
