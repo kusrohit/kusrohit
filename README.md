@@ -24,12 +24,12 @@
 <!-- GitHub Stats -->
 ### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=kusrohit&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=radical&hide_border=false) -->
-### ✍️ Dev Quote
+![](https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=radical&hide_border=true)
+<!-- ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&hide_border=false)
 ### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-Refresh Page for New Meme
+Refresh Page for New Meme -->
 </br>
 </br>
 <!-- Footer -->
