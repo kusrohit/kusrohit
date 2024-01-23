@@ -1,7 +1,7 @@
 <!-- Your Name -->
 <h1 align="center">Namaste🙏, I'm Rohit👋</h1>
 <!-- Introduction -->
-<h3 align="center">I'm a Developer from Bharat 🇮🇳</h3>
+<h3 align="center">A developer from Bharat 🇮🇳</h3>
 <!-- gif -->
 <!-- <img align="right" alt="Coding" width="300" src="./tenor.gif"> -->
 
