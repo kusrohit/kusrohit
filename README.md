@@ -3,7 +3,7 @@
 <!-- Introduction -->
 <h3 align="center">I'm a Developer from Bharat 🇮🇳</h3>
 <!-- gif -->
-<img align="right" alt="Coding" width="400" src="./tenor.gif">
+<img align="right" alt="Coding" width="300" src="./tenor.gif">
 
 <!-- Visitor count -->
 ![Profile Views](https://komarev.com/ghpvc/?username=kusrohit&style=for-the-badge&color=3670A0)</br>
@@ -21,7 +21,7 @@
 <!-- Top Skill -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kusrohit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=kusrohit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=kusrohit&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=radical&hide_border=false)<br/>
 
 ### ✍️ Dev Quote
