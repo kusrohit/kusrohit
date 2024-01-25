@@ -31,8 +31,8 @@
 <!-- GitHub Stats -->
 ### 📊 Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kusrohit&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 40%; max-width: 400px;" />
-  <img aligh="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=radical&hide_border=true" alt="Github Streaks" style="width: 50%; max-width: 420px;" />
+    <img aligh="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kusrohit&theme=radical&hide_border=true" alt="Github Streaks" style="width: 50%; max-width: 420px;" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=kusrohit&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 40%; max-width: 400px;" />
 </p>
 
 <!-- ### ✍️ Dev Quote
