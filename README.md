@@ -1,6 +1,6 @@
-<img src="https://github.com/kusrohit/kusrohit/blob/main/banner.png" alt="banner">
+<img src="https://github.com/kusrohit/kusrohit/blob/main/github-banner.png" alt="banner">
 
-<h1 align="center">Hi !👋 I'm Rohit</h1>
+<h1 align="center">Hi !👋</h1>
 
 ###
 
