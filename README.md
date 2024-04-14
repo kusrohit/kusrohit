@@ -1,4 +1,4 @@
-<h1 align="center">Hi !👋 My name is Rohit Maurya</h1>
+<h1 align="center">Hi !👋 I'm Rohit</h1>
 
 ###
 
@@ -55,10 +55,10 @@
   <img src="https://komarev.com/ghpvc/?username=kusrohit&style=for-the-badge&color=3670A0">
 </div>
 
-###
+<!-- ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/kusrohit/kusrohit/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
